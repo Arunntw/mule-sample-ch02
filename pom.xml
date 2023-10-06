@@ -5,6 +5,8 @@
 	<!--IN CH2.0 group-id should be business Group id -->
 	<groupId>8c70a801-db1d-4516-b603-458fb3f7bae5</groupId>
 	<artifactId>mule-cicd-actions-example</artifactId>
+
+	<!-- SEM VER is required .... MAJOR.MINOR.PATH  -->
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
